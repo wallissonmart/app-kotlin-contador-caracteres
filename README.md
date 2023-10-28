@@ -21,8 +21,8 @@ Contador de Caracteres é um aplicativo simples desenvolvido para Android, que p
 
 ## Uso
 
-Inserir Palavra:
-Preencha o campo com a palavra desejada.
+Inserir Palavra:  
+Preencha o campo com a palavra desejada.  
 Toque no botão "Contar Caracteres" para visualizar quantos caracteres a palavra possui.
 
 Visualizar Contagem de Caracteres:
